@@ -69,7 +69,7 @@ void HIRO::genZeroBegin(){
   /*
    *  @brief This method initializes H.I.R.O. to Generation Zero Motor Pinouts
    */
-  this->customBegin(12, 13, 19, 19, 3, 2, 27, 28);
+  this->customBegin(12, 13, 18, 19, 3, 2, 27, 28);
 }
 
 
